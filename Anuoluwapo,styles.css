@@ -1,0 +1,51 @@
+<style>
+body {
+  background-image: url(https://th.bing.com/th/id/R.d94cc5b3b79be0893bbbe9ab6274f34e?rik=cnZBZLLQ%2bVzl8Q&pid=ImgRaw&r=0);
+}
+title {
+ color: pink;
+}
+h2{
+  color: blue;
+  font-family: sans-serif;
+}
+h3 {
+  text-align: center;
+  color: purple;
+  font-family: monospace;
+}
+.card-front {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%
+  background-color: white;
+  padding: 20px;
+  border: 1px solid;
+  border-radius: 10px;
+  box-shadow: 0 0 10px;
+}
+.card-back {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #333
+  padding: 20px;
+  border: 1px solid;
+  border-radius: 10px;
+  box-shadow: 0 0 10px;
+}
+p {
+  font-size: 18px;
+  color: brown;
+  font-family:monospace;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid blue;
+  border-radius: 10px;
+  box-shadow: 0 0 10px;
+}
+</style>
